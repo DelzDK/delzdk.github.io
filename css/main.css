@@ -99,18 +99,6 @@ section#scid
 	margin-left: 530px;
 }
 
-section#disable
-{
-	color: white;
-	background: DodgerBlue;
-	font-size: 4em;
-	text-align: center;
-	width: 280px;
-	padding: 50px;
-	margin-top: 260px;
-	margin-left: 100px;
-}
-
 section#disconnect
 {
 	color: white;
@@ -119,6 +107,6 @@ section#disconnect
 	text-align: center;
 	width: 280px;
 	padding: 50px;
-	margin-top: -165px;
-	margin-left: 520px;
+	margin-top: 250px;
+	margin-left: 320px;
 }
